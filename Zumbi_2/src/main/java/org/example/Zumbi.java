@@ -8,6 +8,7 @@ public class Zumbi {
     }
 
     void transfereVida (Zumbi zumbiAlvo, double quantia){
-
+        vida = -quantia;
+        zumbiAlvo.vida = +quantia;
     }
 }
