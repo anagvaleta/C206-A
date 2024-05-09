@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfaefb87-8d53-4a6d-b724-dd8337ed3ed8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Aula 5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula_5/Exercicio1/src/main/java/org/example/Banda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula_5/Exercicio1/src/main/java/org/example/Banda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula_7/Exercicio1/src/main/java/org/example/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula_7/Exercicio1/src/main/java/org/example/Conta.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2gEYrFOJIjxmhJ1lhAHY4M9T84W" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfaefb87-8d53-4a6d-b724-dd8337ed3ed8" name="Changes" comment="" />
+      <created>1715264402752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715264402752</updated>
+    </task>
+    <servers />
+  </component>
+</project>
